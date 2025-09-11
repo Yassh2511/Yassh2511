@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>AI-powered Lawbook (virtual court) & Java full-stack apps<br><br>🤝 I’m looking to collaborate on<br><br>AI/ML & Java backend projects<br><br>👐 I’m looking for help with<br><br>Cloud deployment & DevOps best practices<br><br>🌱 I’m currently learning<br><br>Spring Boot, microservices & model optimization<br><br>💬 Ask me about<br><br>Java (Core/Advanced), AI pipelines & full-stack dev
+I’m Yash, a Software Developer passionate about Java, AI, and full-stack development. Skilled in Core/Advanced Java, Python, and AI/ML pipelines, I love building impactful projects like AI-powered Lawbook and scalable web apps. Always curious to learn Spring Boot, microservices, and model optimization, while aiming to bridge technology with real-world solutions. 🚀
+
 
 
 ## 🌐 Socials:
